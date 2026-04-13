@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:0ea5e9,60:7c3aed,100:22c55e&height=230&section=header&text=Luis%20Carlos%20Pedraza&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20Data%20%7C%20DevOps%20en%20formaci%C3%B3n&descAlignY=58&descSize=18&descColor=94a3b8" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=800&color=38BDF8&center=true&vCenter=true&width=960&lines=🚀+Construyo+soluciones+end-to-end+con+pasión;🔭+Monitoreo+preventivo+%7C+Gestión+de+incidencias;📊+Análisis+de+datos+e+informes+estratégicos;🌱+Aprendiz+en+Etapa+Productiva+—+SETI;⚡+Backend+·+Frontend+·+Data+·+DevOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=800&color=38BDF8&center=true&vCenter=true&width=960&lines=Construyo+soluciones+end-to-end+con+pasion;Monitoreo+preventivo+%7C+Gestion+de+incidencias;Analisis+de+datos+e+informes+estrategicos;Aprendiz+en+Etapa+Productiva+%E2%80%94+SETI;Backend+%C2%B7+Frontend+%C2%B7+Data+%C2%B7+DevOps" alt="Typing SVG" />
 
 <br/>
 
@@ -142,14 +142,14 @@ disponible  : Para proyectos, colaboraciones y oportunidades ✅
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisCPedraza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCPedraza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisCPedraza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCPedraza&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisCPedraza&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=7c3aed&fire=22c55e&currStreakLabel=38BDF8" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=LuisCPedraza&theme=tokyonight&hide_border=true&stroke=0ea5e9&ring=7c3aed&fire=22c55e&currStreakLabel=38BDF8" />
 
 </div>
 
@@ -164,7 +164,7 @@ disponible  : Para proyectos, colaboraciones y oportunidades ✅
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=LuisCPedraza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=LuisCPedraza&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=6" />
 </div>
 
 ---
