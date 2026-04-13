@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- BANNER ANIMADO WORKSPACE / OFICINA -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Developer workspace animation" />
+
 <!-- HEADER ANIMADO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:0ea5e9,60:7c3aed,100:22c55e&height=230&section=header&text=Luis%20Carlos%20Pedraza&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20Data%20%7C%20DevOps%20en%20formaci%C3%B3n&descAlignY=58&descSize=18&descColor=94a3b8" />
 
@@ -190,7 +193,7 @@ disponible  : Para proyectos, colaboraciones y oportunidades ✅
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img width="90%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=LuisCPedraza&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=6" />
+<img width="90%" src="https://github-profile-trophy-winning.vercel.app/?username=LuisCPedraza&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=6" />
 </div>
 
 ---
