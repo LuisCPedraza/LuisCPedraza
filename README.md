@@ -35,6 +35,7 @@
 ```yaml
 nombre      : Luis Carlos Pedraza Corredor
 rol_actual  : Aprendiz en Etapa Productiva — SETI
+educacion   : Tecnología de Software — Universidad del Valle (6to sem. 🎓)
 enfoque     : Full Stack + Data Engineering
 ubicacion   : Colombia 🇨🇴
 aprendiendo : SQL · Oracle DB · Linux · Docker · DevOps
@@ -43,6 +44,31 @@ disponible  : Para proyectos, colaboraciones y oportunidades ✅
 ```
 
 > *"La calidad no es un acto, es un hábito."* — Construyo con documentación clara, mejora continua y visión end-to-end.
+
+---
+
+## 🎓 Educación
+
+<table>
+<tr>
+<td width="60%">
+
+**🏛️ Universidad del Valle — Cali, Colombia**
+`Tecnología en Desarrollo de Software`
+- 📅 En curso · **Sexto semestre · A punto de graduarme** 🎉
+- Formación en ingeniería de software, estructuras de datos, BD y desarrollo web
+- Proyecto de grado enfocado en soluciones tecnológicas reales
+
+</td>
+<td width="40%" align="center">
+
+![Universidad del Valle](https://img.shields.io/badge/Univalle-Tecnolog%C3%ADa%20de%20Software-003087?style=for-the-badge&logo=academia&logoColor=white)
+
+`📍 Cali, Colombia 🇨🇴`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -142,8 +168,8 @@ disponible  : Para proyectos, colaboraciones y oportunidades ✅
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisCPedraza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCPedraza&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=LuisCPedraza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuisCPedraza&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -164,7 +190,7 @@ disponible  : Para proyectos, colaboraciones y oportunidades ✅
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=LuisCPedraza&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=6" />
+<img width="90%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=LuisCPedraza&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=6" />
 </div>
 
 ---
